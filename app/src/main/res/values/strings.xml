@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">L03 Bill Please</string>
+    <string name="amount">Amount</string>
+    <string name="numPax">Num of Pax</string>
+    <string name="discount">Discount</string>
+    <string name="togglebuttonSvc">ToggleButton</string>
+    <string name="toggleButtonGst">ToggleButton</string>
+</resources>
